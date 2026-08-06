@@ -27,4 +27,3 @@ function removeLastItem(){
 
 
 
-///////////////entity codes are in W3 school
